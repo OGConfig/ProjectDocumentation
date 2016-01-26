@@ -4,7 +4,7 @@ This was a project where our group from UNCC simulated a coffee shop encrypted p
 the site. Once clicked an NetCat command is issued to set up a backdoor to victim's computer
 
 <h1>Axure Alien Math Prototype</h1>
-This was a website prototype using the Axure software. This prototype was designed for children to learn math in a fun enviornment. The premise is this alien from space is stranded on out planet and his Universal translater is broken. To repair this problem, children are asked math questions, and if they get them all correct, he can caommunicate with the angry farmer who is trying to shoot him down from the sky using farm concocted weapons. 
+This was a website prototype using the Axure software. This prototype was designed for children to learn math in a fun enviornment. The premise is this alien from space is stranded on out planet and his Universal Translator is broken. To repair this problem, children are asked math questions, and if they get them all correct, he can caommunicate with the angry farmer who is trying to shoot him down from the sky using farm concocted weapons. 
 
 <h1>MedicalOfficeWebsite</h1>
 This was site created in PHP and MySQL. This site is a medical office website. It has user groups for admin, doctors and patients. This site uses some of PHP great functionalities that make PHP so popular.
